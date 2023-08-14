@@ -1,4 +1,4 @@
-# Contributing to the translated content of MDN Web Docs
+# Contributing to the translated content on MDN Web Docs
 
 :tada: First of all, thanks for taking the time to contribute to [MDN Web Docs](https://developer.mozilla.org)’ translated content! :tada:
 
